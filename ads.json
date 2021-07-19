@@ -36,7 +36,7 @@
     "in_app_close": false,
     "bg_inapp": "",
     "price": "After 49€/week",
-    "isShowAdsAndInApp": false,
+    "isShowAdsAndInApp": true,
     "timeClose": 5000,
     "BASE64_PUBLISH_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhV01S5b2ixWY0Iun490BltgJGHfy00sk2Nofz9KSUdNu9/AdvCLKPrqRMl+0sj8myeZTEYnwCuo/2wKA53oXGMqp6rLntvxwtMMPDDZzKzE6LgRNl+HRvLcjcicbcnrc+yKY48jvKULC7LBHTAe5T6jdy4b3sPhR2Ej0VHFqF2r1S1e9JChMNd6I1FxJWQGogohIURejLlvtyoWO5B2q/6Uk6t0fGe5ZyOlpKUul8FLcibYcROuWijB/MP+W1zFOLinF6mXMT2PJqYewThVz/ZNhXoqlkDBpHzr6n2BKdvEH+10SVETvrOmTwzO1l4/08kopLmfA7F2qoKGcsHjAawIDAQAB",
     "countrys": []
